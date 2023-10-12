@@ -1,4 +1,4 @@
-%Code for Problem 2a
+%Code for Problem 2a 
 
 %Entering the values for G(s) and poles
 num = [1,0,0,-29,100] %numerator coefficients of G(s)
